@@ -2,7 +2,7 @@
 
 ## Client Verification
 
-<img src="https://i.imgur.com/LPsTt48.png"></img>
+<img src="https://raw.githubusercontent.com/AMXX4u/client-verification/main/assets/veri.png"></img>
 
 </div>
 
