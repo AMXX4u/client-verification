@@ -39,7 +39,7 @@ amxx4u_show_suspects  "0"
 amxx4u_client_mark  "#"
 
 // Wyświetlać znak (#) przy?
-amxx4u_mark_suspects
+amxx4u_mark_suspects "#"
 
 ```
 </details>
